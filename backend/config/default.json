@@ -1,0 +1,6 @@
+{
+    "serverPort": 5000,
+    "serverDomen": "http://localhost:5000/",
+    "dbUrl": "mongodb+srv://Vlad:1512@cluster0.die8j.mongodb.net/db?retryWrites=true&w=majority", 
+    "secretKey": "mern-secret-key"
+}
